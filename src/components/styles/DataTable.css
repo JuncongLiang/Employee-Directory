@@ -1,0 +1,22 @@
+.heading{
+    size: 20px;
+    padding: 10px;
+}
+
+table {
+  width: 70%;
+  border: none;
+  table-layout: fixed;  
+}
+  
+  th,td {
+    size:24px;
+    width: 20%;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  tr{
+    height: 30px;
+    padding: 15px;
+  }

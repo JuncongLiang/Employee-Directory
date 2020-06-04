@@ -1,0 +1,19 @@
+.header {
+    font-weight: bold;
+    color:white;
+    size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    text-align: center;
+    background-color:lightblue;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+p{
+    text-align: center;
+    font-family: Cambria;
+    color: red;
+    font-size: 20px;
+    margin-top: 10px;
+}
